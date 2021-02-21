@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kalebm1
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning ReactJS, React Native
-- 💞️ I’m looking to collaborate on React, Python, Java projects
+- :handshake: I’m looking to collaborate on React, Python, Java projects
 - 📫 How to reach me: email
 
 <!---
