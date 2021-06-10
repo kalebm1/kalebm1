@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ReactJS, React Native
 - :handshake: I’m looking to collaborate on React, Python, Java projects
 - 📫 How to reach me: email
+- 🐦 [![Twitter](https://img.shields.io/twitter/follow/kaleb_am?label=Follow%20%40kaleb_am&style=social)](https://twitter.com/kaleb_am)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebm1&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
