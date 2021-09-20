@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalebm1
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ReactJS, React Native
+- 🌱 I’m currently learning ReactJS, React Native, C#, Entity Framework Core
 - :handshake: I’m looking to collaborate on React, Python, Java projects
 - 📫 How to reach me: email
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/kaleb_am?label=Follow%20%40kaleb_am&style=social)](https://twitter.com/kaleb_am)
