@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @kalebm1
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ReactJS, React Native, C#, Entity Framework Core
-- :handshake: I’m looking to collaborate on React, Python, Java projects
+- 🌱 I’m currently learning React Native
+- :tiger: LSU Graduate
+- :handshake: I’m looking to collaborate on React, C#, Python, Java projects
 - 📫 How to reach me: email
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/kaleb_am?label=Follow%20%40kaleb_am&style=social)](https://twitter.com/kaleb_am)
-- [![GitHub followers](https://img.shields.io/github/followers/kalebm1.svg?style=social&label=Follow)](https://github.com/kalebm1)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebm1&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
