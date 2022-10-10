@@ -1,7 +1,7 @@
 # Hi, I'm Kaleb :tiger:
 
 ## What I do
-I am currently a software engineer working with full stack applications using modern web technoligies including React, React Native, .NET, Entity Framework, PostgreSQL, and AWS. I also work with Python, WPF, and Java for non-web projects.
+I am a software engineer currently working with full stack applications using modern web and native technoligies including React, React Native, .NET, Entity Framework, PostgreSQL, and AWS. I also work with Python, WPF, and Java for non-web projects.
 
 ## What I enjoy
 I enjoy starting applications with a vision and watching them come to life through software engineering processes. I also enjoy creating user-friendly applications and solving challenging problems.
