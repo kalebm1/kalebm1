@@ -19,8 +19,6 @@ Besides what you can see in my repositories, below are some images of projects I
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebm1&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kalebm1f&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
 
 <!---
 kalebm1/kalebm1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
