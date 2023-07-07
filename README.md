@@ -16,10 +16,6 @@ Besides what you can see in my repositories, below are some images of projects I
 <br/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalebm1&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!---
 kalebm1/kalebm1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
